@@ -1,7 +1,7 @@
-class Cats{
-   food=async()=>{
-       console.log('test')
-   }
+class Cats {
+  fruits = () => {
+    console.log('apple');
+  };
 }
 
-export default Cats
+export default Cats;
