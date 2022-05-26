@@ -1,6 +1,6 @@
 class Cats {
   fruits = () => {
-    console.log('An apple a day keeps the doctor away');
+    console.log('An orange a day keeps the doctor away');
   };
 }
 
